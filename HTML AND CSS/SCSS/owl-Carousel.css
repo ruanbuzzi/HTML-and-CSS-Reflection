@@ -1,0 +1,12 @@
+/*===============================
+        Owl Carousel
+===============================*/
+
+.item {
+    display: block;
+    width: 100%;
+    line-height: 490px;
+    text-align: center;
+    margin: 0;
+}
+

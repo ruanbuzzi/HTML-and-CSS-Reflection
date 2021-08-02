@@ -1,0 +1,25 @@
+
+/*============================
+        FLEXBOX
+============================*/        
+
+.main-menu {
+        display: flex;       
+        flex-direction: row;
+        justify-content: center;
+        align-self: flex-end;
+        
+}
+
+.menu {
+        display: flex;
+        justify-content: flex-end;
+}
+
+.logo {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+}
+
